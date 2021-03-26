@@ -1,0 +1,146 @@
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Niko_Kipas">
+   <title>Ataki na koalicję Wik</title>
+<link rel="stylesheet"href="https://fonts.googleapis.com/css2?family=Crimson+Pro">
+<link rel="stylesheet" href="style.css"> 
+<script type="text/javascript" src="js.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+<strong>
+	<style>
+body {
+background-image: url("https://nowyporzadekinwestowania.pl/upload/image/20210216/1613408434332392.jpg");
+//background-size: cover;
+padding:10px;
+font-family: 'Crimson Pro', serif;
+//font-size: 28px;
+}
+
+span {
+opacity:1;
+}
+
+#container{
+background-color:#7AA1E9;
+margin:20px;
+padding:15px;
+padding-bottom:20px;
+color:black;
+-webkit-box-shadow: 5px 5px 15px 5px #000000; 
+box-shadow: 5px 5px 15px 5px #000000;
+//height:1300px;
+opacity:0.8;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+
+#consola{
+margin-top:10px;
+flat:left;
+padding:20px;
+margin-left:300px;
+background-color:silver;
+width:150px;
+height:150px;
+box-shadow: 5px 5px 25px blue;
+border-radius:7px;
+position:fixed;
+}
+
+#lukas{
+background-color:#7aa1e9;
+padding:30px;
+float:right;
+margin-right:250px;
+margin-top:30px;
+box-shadow: 5px 5px 25px blue;
+width:1200px;
+height:auto;
+border-radius:7px;
+}
+
+#lukas h1{
+padding-left:20px;
+}
+
+#tytul {
+background-color:#7AA1E9;
+margin:20px;
+padding:5px;
+color:black;
+text-align:center;
+-webkit-box-shadow: 5px 5px 15px 5px #000000; 
+box-shadow: 5px 5px 15px 5px #000000;
+font-size: 28px;
+opacity:.8;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+
+#roz {
+font-size:30px;
+color:black;
+}
+
+#wpisz {
+background-color:#93a1a3;
+padding:20px;
+text-align:left;
+//color: red;
+}
+
+textarea,
+input[type]
+{
+width:90px;
+//height:.9em;
+font-size:0.7em;
+padding: 4px;
+border: none;
+}
+
+#rama{
+//border:1px dotted black;
+}
+
+#rama2{
+border:1px dotted blue;
+//font-size:.4em;
+}
+
+#input_kordy{
+width: 22px;
+text-align:center;
+}
+
+#info {
+background-color:#f02e4f;
+float:center;
+padding:20px;
+opacity:.8;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+width:50%;
+text-align:center;
+margin-left:auto;
+margin-right:auto;
+}
+
+#register{
+float:right;
+font-size:20px;
+margin-right:20px;
+color:black;	
+}
+
+	</style>
